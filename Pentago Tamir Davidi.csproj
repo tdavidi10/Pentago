@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67D139B5-FCBF-40C8-BD2C-DA5EC679B4CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pentago_Tamir_Davidi</RootNamespace>
+    <AssemblyName>Pentago Tamir Davidi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArtificialIntelligence.cs" />
+    <Compile Include="Board.cs" />
+    <Compile Include="Cell.cs" />
+    <Compile Include="FormDefeat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDefeat.Designer.cs">
+      <DependentUpon>FormDefeat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGame.Designer.cs">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTie.Designer.cs">
+      <DependentUpon>FormTie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVictory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVictory.Designer.cs">
+      <DependentUpon>FormVictory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LineSequence.cs" />
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInstructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInstructions.Designer.cs">
+      <DependentUpon>FormInstructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlacingOption.cs" />
+    <Compile Include="PlacingOptions.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Quarter.cs" />
+    <Compile Include="RecordsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RecordsForm.Designer.cs">
+      <DependentUpon>RecordsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RotationArrow.cs" />
+    <Compile Include="Score.cs" />
+    <Compile Include="SlantLeftSequence.cs" />
+    <Compile Include="SlantRightSequence.cs" />
+    <Compile Include="ToorSequence.cs" />
+    <EmbeddedResource Include="FormDefeat.resx">
+      <DependentUpon>FormDefeat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGame.resx">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTie.resx">
+      <DependentUpon>FormTie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVictory.resx">
+      <DependentUpon>FormVictory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInstructions.resx">
+      <DependentUpon>FormInstructions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RecordsForm.resx">
+      <DependentUpon>RecordsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartButton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartButton3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instructionsButton.png.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitButton.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartButtontransparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Deck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightUpTurnRight2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightUpTurnLeft2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightDownTurnLeft2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LeftDownTurnLeft2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LeftUpTurnLeft2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightDownTurnRight2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LeftDownTurnRight2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LeftUpTurnRight2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\victoryBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\defeatBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteGula.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blackGula.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backMainMenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TiePic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\תמונה1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timer2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ScoreTable.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,80 @@
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.exe
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.pdb
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\ResolveAssemblyReference.cache
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormInstructions.resources
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.Properties.Resources.resources
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\GenerateResource.read.1.tlog
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\GenerateResource.write.1.tlog
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.exe
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.pdb
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormGame.resources
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.MainMenu.resources
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.exe
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.pdb
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormGame.resources
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.MainMenu.resources
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormInstructions.resources
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.Properties.Resources.resources
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csproj.GenerateResource.Cache
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.exe
+K:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.pdb
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormDefeat.resources
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormVictory.resources
+J:\משחק\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.RotationArrow2.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.exe
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.pdb
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormDefeat.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormGame.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormTie.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormVictory.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.MainMenu.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormInstructions.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.Properties.Resources.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.RecordsForm.resources
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csproj.GenerateResource.Cache
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.exe
+H:\משחק\projet 22.03.17\projet 11.3.17\projet 11.3.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.pdb
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.exe
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.pdb
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.exe
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.pdb
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormDefeat.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormGame.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormTie.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormVictory.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.MainMenu.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormInstructions.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.Properties.Resources.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.RecordsForm.resources
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csproj.GenerateResource.Cache
+C:\Users\class01\Desktop\Pentago Tamir Davidi 29.03.17\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csprojResolveAssemblyReference.cache
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.exe
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.pdb
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.exe
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Release\Pentago Tamir Davidi.pdb
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csprojResolveAssemblyReference.cache
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormDefeat.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormGame.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormTie.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormVictory.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.MainMenu.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormInstructions.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.Properties.Resources.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.RecordsForm.resources
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csproj.GenerateResource.Cache
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Debug\Pentago Tamir Davidi.exe
+K:\משחק\Pentago Tamir Davidi  15.04.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Debug\Pentago Tamir Davidi.pdb
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.exe
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.pdb
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Debug\Pentago Tamir Davidi.exe
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\bin\Debug\Pentago Tamir Davidi.pdb
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csprojResolveAssemblyReference.cache
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormDefeat.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormGame.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormTie.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormVictory.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.MainMenu.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.FormInstructions.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.Properties.Resources.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago_Tamir_Davidi.RecordsForm.resources
+F:\משחק\Pentago Tamir Davidi  03.05.2017 מעודכן\Pentago Tamir Davidi\Pentago Tamir Davidi\obj\x86\Release\Pentago Tamir Davidi.csproj.GenerateResource.Cache
